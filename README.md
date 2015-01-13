@@ -11,7 +11,7 @@ go run remote.go
 if u have *Linux x86_64*, u can use compiled one in RemoteGo/bin/remote
 
 # Usage
-It creates a server on a localhost:1337/linux
+It creates a server on a **localhost:1337/linux**
 where u can post some commands, such as:
 
 + "+" - which makes volume louder by 5%
@@ -23,3 +23,7 @@ where u can post some commands, such as:
 + "prev" - turns the previous music track
 + "pause"
 + "play"
+
+# Screenshots
+
+![alt text](http://cs7064.vk.me/c622025/v622025535/18b2f/8rKUp13iPuQ.jpg "Screenshot")
