@@ -3,7 +3,9 @@ A remote control server written on Golang
 
 # Install
 git clone https://github.com/HaCk3Dq/RemoteGo.git
+
 cd RemoteGo
+
 go run remote.go
 
 # Usage
