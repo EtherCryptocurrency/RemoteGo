@@ -8,6 +8,8 @@ cd RemoteGo
 
 go run remote.go
 
+if u have *linux amd64*, u can use compiled one in RemoteGo/bin/remote
+
 # Usage
 It creates a server on a localhost:1337/linux
 where u can post some commands, such as:
