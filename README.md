@@ -26,7 +26,7 @@ where u can post some commands, such as:
 + "pause"
 + "play"
 
-**Torrent commands are for Transmission (be sure that u turned on web interface and installed transmission-remote**
+**Torrent commands are for Transmission (be sure that u turned on web interface and installed transmission-remote)**
 
 + "t start" - start all torrents
 + "t stop"  - stop all torrents
