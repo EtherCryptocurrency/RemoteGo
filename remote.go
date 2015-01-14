@@ -8,12 +8,14 @@ import (
 )
 
 var list = map[string]string{
-	"+":     "amixer set Master playback 5%+",
-	"-":     "amixer set Master playback 5%-",
-	"next":  "foobnix --next",
-	"prev":  "foobnix --prev",
-	"pause": "foobnix --pause",
-	"play":  "foobnix --play",
+	"+":       "amixer set Master playback 5%+",
+	"-":       "amixer set Master playback 5%-",
+	"next":    "foobnix --next",
+	"prev":    "foobnix --prev",
+	"pause":   "foobnix --pause",
+	"play":    "foobnix --play",
+	"t start": "transmission-remote -tall --start",
+	"t stop":  "transmission-remote -tall --stop",
 }
 
 func get_cmd(w http.ResponseWriter, r *http.Request) {
