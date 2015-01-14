@@ -6,7 +6,9 @@ git clone https://github.com/HaCk3Dq/RemoteGo.git
 
 cd RemoteGo
 
-go run remote.go
+go build remote.go
+
+./remote
 
 if u have *Linux x86_64*, u can use compiled one in RemoteGo/bin/remote
 
